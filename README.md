@@ -1,7 +1,7 @@
 # Shopping Cart
 Developed using Visual Studio Code for Windows, learning how to create a simple Shopping Cart web application using React.
 ## How to install
-Clone the repository and change directory to the deployment root directory, then execute the "http-server -c-1c" command to start the application.
+Clone the repository and change directory to the deployment root directory, then execute the "http-server -c-1" command to start the application.
 ## Usage
 Web browse to http://localhost:8080/ in a web browser of choice and enjoy.
 ## Roadmap
